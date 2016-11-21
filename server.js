@@ -26,6 +26,9 @@ app.get('/agricultural', function (req, res) {
     res.sendFile(path.join(__dirname, 'ui', 'agricultural.html')); 
 });
 
+app.get('/astrology', function (req, res) {
+    res.sendFile(path.join(__dirname, 'ui', 'astrology.html')); 
+});
 app.get('/ui/style.css', function (req, res) {
  res.sendFile(path.join(__dirname, 'ui', 'style.css'));
 });
