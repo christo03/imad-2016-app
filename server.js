@@ -29,6 +29,19 @@ app.get('/agricultural', function (req, res) {
 app.get('/astrology', function (req, res) {
     res.sendFile(path.join(__dirname, 'ui', 'astrology.html')); 
 });
+
+app.get('/electrical', function (req, res) {
+    res.sendFile(path.join(__dirname, 'ui', 'electrical.html')); 
+});
+
+app.get('/finance', function (req, res) {
+    res.sendFile(path.join(__dirname, 'ui', 'finance.html')); 
+});
+
+app.get('/health', function (req, res) {
+    res.sendFile(path.join(__dirname, 'ui', 'health.html')); 
+});
+
 app.get('/ui/style.css', function (req, res) {
  res.sendFile(path.join(__dirname, 'ui', 'style.css'));
 });
