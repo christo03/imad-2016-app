@@ -30,6 +30,14 @@ app.get('/astrology', function (req, res) {
     res.sendFile(path.join(__dirname, 'ui', 'astrology.html')); 
 });
 
+app.get('/autotech', function (req, res) {
+    res.sendFile(path.join(__dirname, 'ui', 'autotech.html'));
+});
+
+app.get('/education', function (req, res) {
+    res.sendFile(path.join(__dirname, 'ui', 'education.html')); 
+});
+
 app.get('/electrical', function (req, res) {
     res.sendFile(path.join(__dirname, 'ui', 'electrical.html')); 
 });
@@ -38,8 +46,16 @@ app.get('/finance', function (req, res) {
     res.sendFile(path.join(__dirname, 'ui', 'finance.html')); 
 });
 
+app.get('/food', function (req, res) {
+    res.sendFile(path.join(__dirname, 'ui', 'food.html')); 
+});
+
 app.get('/health', function (req, res) {
     res.sendFile(path.join(__dirname, 'ui', 'health.html')); 
+});
+
+app.get('/life', function (req, res) {
+    res.sendFile(path.join(__dirname, 'ui', 'life.html')); 
 });
 
 app.get('/medical', function (req, res) {
