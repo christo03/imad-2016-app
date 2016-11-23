@@ -58,20 +58,12 @@ app.get('/life', function (req, res) {
     res.sendFile(path.join(__dirname, 'ui', 'life.html')); 
 });
 
-app.get('/medical', function (req, res) {
-    res.sendFile(path.join(__dirname, 'ui', 'medical.html')); 
-});
-
 app.get('/movie', function (req, res) {
     res.sendFile(path.join(__dirname, 'ui', 'movie.html')); 
 });
 
 app.get('/music', function (req, res) {
     res.sendFile(path.join(__dirname, 'ui', 'music.html')); 
-});
-
-app.get('/web', function (req, res) {
-    res.sendFile(path.join(__dirname, 'ui', 'web.html')); 
 });
 
 app.get('/technology', function (req, res) {
