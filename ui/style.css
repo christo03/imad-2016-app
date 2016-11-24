@@ -12,6 +12,8 @@ body{
     left: 0;
     text-align: center;
     background-color: #0000FF;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
     border-radius: 4px;
     margin: 0 auto;
     margin-top: 150px;
