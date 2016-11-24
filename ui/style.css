@@ -116,3 +116,11 @@ a
    
 }
 
+.h3 {
+    font-size: 30px;
+    color: #FFFFFF;
+    text-align: center;
+    position: fixed;    
+    bottom: 250px;
+   
+}
