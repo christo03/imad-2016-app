@@ -48,13 +48,6 @@ a
  color:#fff; 
 } 
 
-.flex-container {
-    display: -webkit-flex;
-    display: flex; 
-    -webkit-flex-direction: column;
-    flex-direction: column;
-}
-
 .flex-item {
     background-color: cornflowerblue;
     width: 350px;
