@@ -139,6 +139,7 @@ a
 .h5 {
     font-size: 30px;
     color: #FFFFFF;
+    filter: brightness(200%);
     text-align: center;
     position: fixed;    
     bottom: 190px;
