@@ -50,11 +50,11 @@ a
 
 .flex-item {
     background-color: cornflowerblue;
-    width: 200px;
+    width: 250px;
     height: 200px;
     position: fixed;
-    bottom: 50px;
-    left: 20px;
+    bottom: 200px;
+    left: 30px;
     text-align: center;
     margin: 0 auto;
 }
