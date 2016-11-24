@@ -7,9 +7,6 @@ body{
 .container{
     width: 500px;
     height: 400px;
-    position: absolute;
-    top: 0;
-    left: 0;
     text-align: center;
     background-color: #0000FF;
     opacity: 0.6;
