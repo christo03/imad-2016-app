@@ -14,6 +14,10 @@ app.get('/counter', function (req, res) {
      res.send(counter.tostring());
 });
 
+app.get('/forget-password', function (req, res) {
+    res.sendFile(path.join(__dirname, 'ui', 'forget-password.html')); 
+});
+
 app.get('/article-one', function (req, res) {
     res.sendFile(path.join(__dirname, 'ui', 'article-one.html')); 
 });
