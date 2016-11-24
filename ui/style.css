@@ -63,3 +63,18 @@ a
     
 }
 
+.flex-item1{
+    background-color: cornflowerblue;
+    width: 350px;
+    height: 200px;
+    position: fixed;
+    bottom: 200px;
+    left: 25px;
+    text-align: center;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+    border-radius: 4px;
+    margin: 10px;
+    
+}
+
