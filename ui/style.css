@@ -139,7 +139,8 @@ a
 .h5 {
     font-size: 30px;
     color: #FFFFFF;
-    opacity: 2.5;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
     text-align: center;
     position: fixed;    
     bottom: 190px;
