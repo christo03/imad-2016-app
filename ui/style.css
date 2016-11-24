@@ -77,4 +77,33 @@ a
     margin: 10px;
     
 }
+.flex-item2 {
+    background-color: cornflowerblue;
+    width: 350px;
+    height: 200px;
+    position: fixed;
+    bottom: 350px;
+    right: 25px;
+    text-align: center;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+    border-radius: 4px;
+    margin: 10px;
+    
+}
+
+.flex-item3 {
+    background-color: cornflowerblue;
+    width: 350px;
+    height: 200px;
+    position: fixed;
+    bottom: 50px;
+    right: 25px;
+    text-align: center;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+    border-radius: 4px;
+    margin: 10px;
+    
+}
 
