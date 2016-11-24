@@ -153,3 +153,12 @@ a
     bottom: 150px;
     right: 160px;
 }
+
+.h7 {
+    font-size: 30px;
+    color: #FFFFFF;
+    text-align: center;
+    position: fixed;    
+    bottom: 130px;
+    right: 160px;
+}
