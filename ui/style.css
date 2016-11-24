@@ -141,18 +141,8 @@ a
     color: #FFFFFF;
     text-align: center;
     position: fixed;    
-    bottom: 190px;
+    bottom: 160px;
     right: 90px;
-}
-
-.h6 {
-    font-size: 30px;
-    color: #FFFFFF;
-    opacity: 0.7;
-    text-align: center;
-    position: fixed;    
-    bottom: 150px;
-    right: 160px;
 }
 
 .h7 {
