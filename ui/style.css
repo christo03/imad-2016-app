@@ -114,6 +114,7 @@ a
     position: fixed;    
     bottom: 450px;
     left: 100px;
+    
    
 }
 
@@ -123,7 +124,7 @@ a
     text-align: center;
     position: fixed;    
     bottom: 150px;
-   
+    left: 100px;
 }
 
 .h4 {
