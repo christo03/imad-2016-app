@@ -7,6 +7,8 @@ body{
 .container{
     width: 500px;
     height: 400px;
+    top: 0;
+    right:0;
     text-align: center;
     background-color: #0000FF;
     border-radius: 4px;
