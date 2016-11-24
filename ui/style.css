@@ -132,7 +132,7 @@ a
     color: #FFFFFF;
     text-align: center;
     position: fixed;    
-    bottom: 450px;
+    bottom: 125px;
     right: 160px;
 }
 
@@ -141,7 +141,7 @@ a
     color: #FFFFFF;
     text-align: center;
     position: fixed;    
-    bottom: 125px;
+    bottom: 450px;
     right: 90px;
 }
 
@@ -150,6 +150,6 @@ a
     color: #FFFFFF;
     text-align: center;
     position: fixed;    
-    bottom: 110px;
+    bottom: 400px;
     right: 150px;
 }
