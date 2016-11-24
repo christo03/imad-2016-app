@@ -110,7 +110,7 @@ a
 .h2 {
     font-size: 30px;
     color: #FFFFFF;
-    text-align: justify;
+    align-self: center;
     position: fixed;
     
 }
