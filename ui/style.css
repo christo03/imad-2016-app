@@ -50,12 +50,16 @@ a
 
 .flex-item {
     background-color: cornflowerblue;
-    width: 400px;
+    width: 350px;
     height: 200px;
     position: fixed;
     bottom: 400px;
-    left: 30px;
+    left: 25px;
     text-align: center;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+    border-radius: 4px;
     margin: 0 auto;
+    
 }
 
