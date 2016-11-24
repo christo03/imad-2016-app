@@ -135,3 +135,21 @@ a
     bottom: 450px;
     right: 160px;
 }
+
+.h5 {
+    font-size: 30px;
+    color: #FFFFFF;
+    text-align: center;
+    position: fixed;    
+    bottom: 450px;
+    right: 160px;
+}
+
+.h6 {
+    font-size: 30px;
+    color: #FFFFFF;
+    text-align: center;
+    position: fixed;    
+    bottom: 450px;
+    right: 160px;
+}
