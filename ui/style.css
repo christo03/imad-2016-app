@@ -111,5 +111,7 @@ a
     font-size: 30px;
     color: #FFFFFF;
     text-align: center;
+    position: fixed;
+    bottom: 15px;
 }
 
