@@ -1,30 +1,48 @@
-body {
-    font-family: sans-serif;
-    background-color:aqua;
-    margin-top: 75px;
+body{
+    margin: 0 auto;
+    background-image: url("imad-2016-app/spot log.png");
+    background-repeat: no-repeat;
+    background-size: 100% 720px;
 }
-
-.center {
-    text-align: center;
-}
-
-.text-big {
-    font-size: 300%;
-}
-
-.bold {
-    font-weight: bold;
-}
-
-.img-medium {
-    height: 200px;
-}
-
 .container{
-            max-width:800px;
-            margin:0 auto;
-            color:red
-            ;
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    background-color: #0000FF;
+    border-radius: 4px;
+    margin: 0 auto;
+    margin-top: 150px;
 }
-body {margin:0;}
+.container img{
+    width: 120px;
+    height: 120px;
+    margin-top: -60px;
+    margin-bottom: 30px;
+}
+    input[type="text"],input[type="password"]{
+      height: 45px;
+      width: 300px;
+      font-size: 18px;
+      border: none;
+      margin-bottom: 20px;
+      border-radius: 4px;
+      background-color: #fff;
+}   
+  
+.btn-login{
+       padding: 15px 30px;
+       cursor: pointer;
+       color: #fff;
+       border-radius: 4px;
+       border: none;
+       background-color: #2ECC71;
+       border-bottom: 4px solid #27AE60;
+       margin-bottom: 20;
+    
+}
+a
+{ 
+ color:#fff; 
+}     
+
 
