@@ -51,10 +51,10 @@ a
 .flex-item {
     background-color: cornflowerblue;
     width: 200px;
-    height: 50px;
+    height:200px;
     position: fixed;
-    bottom: 5px;
-    left: 2px;
+    bottom: 50px;
+    left: 20px;
     text-align: center;
     margin: 0 auto;
 }
