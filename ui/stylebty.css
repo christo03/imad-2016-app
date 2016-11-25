@@ -3,8 +3,8 @@
     width: 700px;
     height: 600px;
     position: fixed;
-    bottom: 25px;
-    left: 25px;
+    top: 25px;
+    left: 200px;
     text-align: center;
     opacity: 0.6;
     filter: alpha(opacity=60);
