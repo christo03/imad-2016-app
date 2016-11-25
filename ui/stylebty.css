@@ -1,1 +1,8 @@
 
+.parallax {
+    background-image: url("https://raw.githubusercontent.com/christo03/imad-2016-app/master/parallaximg.PNG");
+    background-size: 100% 720px;
+    background-color: #1abc9c;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
