@@ -163,3 +163,11 @@ a
     top: 50px;
     right: 600px;
 }
+
+
+.parallax {
+    background-color: #1abc9c;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
